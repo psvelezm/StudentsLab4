@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="students.xslt"?>
+
+<students>
+  <student id="001234" type="grad">
+    <lastname>Jones</lastname>
+    <firstname>Alan</firstname>
+    <gpa>3.51</gpa>
+    <charges>
+      <tuition>1200</tuition>
+      <parking>35.20</parking>
+      <health>18.50</health>    
+    </charges>
+          
+  </student>
+  
+  <student id="001887" type="undergrad">
+    <lastname>Chong</lastname>
+    <firstname>Susan</firstname>
+    <gpa>2.51</gpa>
+    <charges>
+      <tuition>1645</tuition>
+      <activity>50.20</activity>
+      <parking>35.20</parking>
+      <health>22.50</health>
+    </charges>
+
+  </student>
+  
+  
+</students>
